@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_5sdp"
+    tools:context=".activities.PasabuyerLocation">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <View
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_90sdp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@drawable/img_5" />
+        //
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:text="PASABUYER"
+        android:textSize="@dimen/_15sdp"
+        android:textColor="@color/create"/>
+
+    <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+        android:id="@+id/UserLocation1"
+        android:layout_width="@dimen/_268sdp"
+        android:layout_height="45dp"
+        android:layout_marginStart="@dimen/_45sdp"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_45sdp"
+        android:minHeight="@dimen/_20sdp"/>
+
+    <TextView
+        android:id="@+id/tvStatus1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SELECT YOUR STATUS"
+        android:textAlignment="center"
+        android:visibility="invisible"
+        android:textColor="@color/primary"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/savebutton3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="save"
+        android:layout_margin="10dp"
+        android:layout_marginTop="100dp"/>
+
+    <Button
+        android:id="@+id/setpinnedlocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="100dp"
+        android:onClick="onClickSetPinnedLocation"
+        android:text="Set pinned location" />
+
+    <TextView
+        android:id="@+id/tvStatus3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SELECT YOUR STATUS"
+        android:textAlignment="center"
+        android:visibility="invisible"
+        android:textColor="@color/primary"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/tvUserLocation1"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="SET LOCATION FOR BUYER"
+        android:textAlignment="center"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:textColor="@color/primary"
+        android:visibility="invisible"
+        android:textSize="23dp" />
+
+    <TextView
+        android:id="@+id/tvUserLocation3"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="SET LOCATION FOR BUYER"
+        android:textAlignment="center"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:textColor="@color/primary"
+        android:visibility="invisible"
+        android:textSize="23dp" />
+
+
+
+
+</LinearLayout>

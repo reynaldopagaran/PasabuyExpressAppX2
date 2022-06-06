@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_buyer.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_chat.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_chatbox.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_dashboard.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_dashboard2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_deactivated.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_details.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_gcash.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_list_views1.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_notify_buyer.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_pasabuy_location.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_pasabuyer_location.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_pay_pal.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_report.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_sign_in.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_status.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_track_buyer.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_user_location.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_user_status.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_user_status2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_users.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_users_pasabuy.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_viewlist2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/item_container_user.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Andromeda/StudioProjects/PasabuyExpressAppX/app/src/main/res/layout/viewcontents_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable-anydpi/ic_image_attach_black.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable-anydpi/ic_image_black.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/background_chat_input.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/background_content_bottom.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/background_content_top.xml" value="0.2074074074074074" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/background_icon.xml" value="0.25" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/background_image.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/background_input.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/background_received_image.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/background_received_message.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/background_sent_image.xml" value="0.22" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/background_sent_message.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/badge_circle.xml" value="0.21794871794871795" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/button_back.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/buttons.xml" value="0.21794871794871795" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/buttton_back.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/circle_blue.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/circle_green.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/circle_lightblue.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/circle_pink.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/circle_purple.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/circle_red.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/circle_yellow.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_add.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_addcart.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_addproduct.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_back.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_bpayment.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_camera.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_click.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_delete.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_done.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_gallery.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_group.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_info.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_list.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_location.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_logout.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_more_vert.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_next.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_next_payment.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_notice.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_notifiations.xml" value="0.21794871794871795" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_notifications.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_outline_insert_photo_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_removeproduct.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_round_power_settings_new_24.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_send.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_title.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_upload.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/drawable/ic_users.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_buttons.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_buttons1.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_buttons2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_buyer.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_chat.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_chat_map.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_chatbox.xml" value="0.18" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_dashboard.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_dashboard2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_details.xml" value="0.18" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_display_data.xml" value="0.22" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_edit_profile.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_first_fragment.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_gcash.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_home.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_list_view.xml" value="0.21" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_list_views1.xml" value="0.22" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_list_views2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_location.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_locations.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_log_in.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_logout.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_main2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_main_home.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_main_spinner.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_maps2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_maps3.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_message.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_new_app.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_new_sign_in.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_notify_buyer.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_notify_buyer1.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_pasabuy.xml" value="0.22" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_pasabuyer_location.xml" value="0.14" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_pay_pal.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_payment_method.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_payment_pay_pal.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_product_list.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_product_list2.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_registration.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_second.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_second_fragment.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_send_image.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_settings.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_shopping_list.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_show_saved_locations_list.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_sign_in.xml" value="0.2" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_sign_up.xml" value="0.16" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_spinner.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_splash_screen.xml" value="0.17" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_status.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_user2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_user_location.xml" value="0.16" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_user_location2.xml" value="0.1358108108108108" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_user_location22.xml" value="0.1" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_user_location3.xml" value="0.1" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_user_status.xml" value="0.15" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_users.xml" value="0.18" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_users2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_users_pasabuy.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_view_location.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_view_maps.xml" value="0.1078125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_view_status.xml" value="0.1953125" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/activity_viewlist2.xml" value="0.18" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/adapter_view_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/buyernotify.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/fragment_first.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/fragmentfirst.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/header.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/item_container_received_image.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/item_container_received_message.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/item_container_recent.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/item_container_recent_conversion.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/item_container_sent_image.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/item_container_sent_message.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/item_container_status.xml" value="0.13" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/item_container_user.xml" value="0.14" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/list_adapter_view.xml" value="0.18" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/list_adapter_view2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/list_views2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/lists.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/listviewss.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/main_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/maps.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/notification_badge.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/row.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/rowlayout.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/settings.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/singledata.xml" value="0.2" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/layout/viewcontents_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/menu/main_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/menu/menu_item.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/menu/menu_main.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressApp2/app/src/main/res/xml/provider_path.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_buttons.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_buttons2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_buyer.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_chat.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_chatbox.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_dashboard.xml" value="0.18" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_dashboard2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_details.xml" value="0.18" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_display_data.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_gcash.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_history.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_list_views1.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_main_home.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_notify_buyer.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_pasabuy_location.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_pasabuyer_location.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_pay_pal.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_payment_method.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_splash_screen.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_status.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_track_buyer.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_user_location.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_user_status.xml" value="0.18" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_user_status2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_users.xml" value="0.2" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_users_pasabuy.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/activity_viewlist2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/card.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/fragment_first.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/item_container_received_image.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/item_container_received_message.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/item_container_recent_conversion.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/item_container_sent_image.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/item_container_sent_message.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/item_container_user.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/layout_custom_dialog.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/list_adapter_view.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/list_adapter_view2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/list_views2.xml" value="0.209375" />
+        <entry key="..\:/Users/Joana Mae Mantilla/AndroidStudioProjects/PasabuyExpressAppX/app/src/main/res/layout/viewcontents_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/drawable/background_icon.xml" value="0.334" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/drawable/history.xml" value="0.2985" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_buttons.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_buttons2.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_buyer.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_chat.xml" value="0.3963963963963964" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_chatbox.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_dashboard.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_dashboard2.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_display_data.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_history.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_list_views1.xml" value="0.25" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_new_sign_in.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_notify_buyer.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_pasabuyer_location.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_payment_method.xml" value="0.33" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_sign_in.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_sign_up.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_status.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_user_location.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_user_status.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_users_pasabuy.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_view_status.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/activity_viewlist2.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/card.xml" value="0.23716216216216215" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/fragment_first.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/item_container_user.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/layout_custom_dialog.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/list_adapter_view.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/list_adapter_view2.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/list_views2.xml" value="0.23783783783783785" />
+        <entry key="..\:/Users/Shark/AndroidStudioProjects/PasabuyExpressApp/app/src/main/res/layout/viewcontents_layout.xml" value="0.23783783783783785" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

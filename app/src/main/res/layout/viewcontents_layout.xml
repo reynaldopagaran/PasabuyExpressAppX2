@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <View
+        android:id="@+id/headerBackground"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_3sdp"
+        android:background="@color/white" />
+
+    <ImageView
+        android:id="@+id/imageBack"
+        android:layout_width="49dp"
+        android:layout_height="48dp"
+        android:padding="@dimen/_5sdp"
+        android:src="@drawable/ic_back"
+        app:tint="@color/btncreate" />
+
+    <View
+        android:id="@+id/headerBackground1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_3sdp"
+        android:background="@color/primary" />
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_30sdp"
+        android:layout_margin="8dp"
+        android:stretchColumns="1,2">
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/textViewItems"
+                android:layout_width="194dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/headerBackground1"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="15dp"
+                android:text="Picked Items"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewQuantity"
+                android:layout_width="144dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/headerBackground1"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="15dp"
+                android:text="Quantity"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+
+        </TableRow>
+    </TableLayout>
+
+    <RelativeLayout
+        android:id="@+id/main1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="@dimen/_400sdp"
+            android:layout_height="420dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_6sdp"
+            android:layout_marginEnd="@dimen/_1sdp" />
+
+        <TextView
+            android:id="@+id/modeofPayment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginTop="430dp"
+            android:text="Mode of payment"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+
+            android:id="@+id/ModeOfPaymentId2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginTop="470dp"
+            android:text="----"
+            android:textColor="#4CAF50"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ModeOfPaymentId2"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:stretchColumns="1,2">
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/g"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginLeft="5dp"
+                    android:text="GCash #"
+                    android:textSize="@dimen/_15sdp"
+                    android:textStyle="bold"
+                    android:visibility="gone" />
+
+                <EditText
+                    android:id="@+id/gcashNumber"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="0000-000-0000"
+                    android:inputType="number"
+                    android:maxLength="11"
+                    android:maxLines="1"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Save"
+                    android:visibility="gone" />
+
+
+            </TableRow>
+        </TableLayout>
+
+
+        <Button
+            android:id="@+id/btnDone"
+            android:layout_width="124dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="@dimen/_120sdp"
+            android:layout_marginTop="570dp"
+            android:layout_marginEnd="140dp"
+            android:text="Done" />
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_10sdp"
+    android:orientation="vertical"
+    tools:context=".UserStatus">
+
+    <ImageView
+        android:layout_width="118dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="@dimen/_3sdp"
+        android:layout_marginBottom="@dimen/_3sdp"
+        android:background="@drawable/logopasabuy" />
+
+    <View
+        android:id="@+id/headerBackground1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_3sdp"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:background="@color/primary" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="133dp"
+            android:layout_marginStart="@dimen/_150sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:gravity="center"
+            android:text="Pasabuyer where a user can request another user to buy their essential products in the mall without having to go to malls personally"
+            android:textColor="@color/create"
+            android:textSize="@dimen/_13sdp"
+            android:textStyle="italic" />
+
+        <View
+            android:layout_width="@dimen/_140sdp"
+            android:layout_height="@dimen/_105sdp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@drawable/img_6" />
+
+
+        <TextView
+            android:layout_width="@dimen/_160sdp"
+            android:layout_height="138dp"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:layout_marginTop="@dimen/_160sdp"
+            android:gravity="center"
+            android:text="The user can choose either the Buyer or Pasabuyer and it will proceed to the Chatbox page where their conversation consists of  the user's transaction and also the Payment Method."
+            android:textColor="@color/create"
+            android:textSize="@dimen/_12sdp"
+            android:textStyle="italic" />
+
+        <View
+            android:layout_width="@dimen/_140sdp"
+            android:layout_height="@dimen/_105sdp"
+            android:layout_marginStart="@dimen/_170sdp"
+            android:layout_marginTop="@dimen/_160sdp"
+            android:background="@drawable/image12" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="129dp"
+            android:layout_marginStart="@dimen/_150sdp"
+            android:layout_marginTop="@dimen/_310sdp"
+            android:gravity="center"
+            android:text="Buyer is the user will be the one to buy the product. The user can reject or accept requests depending on the location of the user who requests to buy from other users."
+            android:textColor="@color/create"
+            android:textSize="@dimen/_11sdp"
+            android:textStyle="italic" />
+
+        <View
+            android:layout_width="@dimen/_140sdp"
+            android:layout_height="@dimen/_105sdp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="@dimen/_310sdp"
+            android:background="@drawable/image13" />
+
+    </RelativeLayout>
+
+        <Button
+            android:id="@+id/skip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_235sdp"
+            android:text="Skip"
+            android:layout_marginTop="@dimen/_48sdp"/>
+
+</LinearLayout>

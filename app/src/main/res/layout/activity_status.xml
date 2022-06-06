@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.Status">
+
+    <TextView
+        android:layout_width="166dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_65sdp"
+        android:text="SELECT USER:"
+        android:textColor="@color/create"
+        android:textSize="@dimen/_12ssp"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/Statuspinner"
+        android:layout_width="@dimen/_268sdp"
+        android:layout_height="45dp"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:layout_marginStart="@dimen/_45sdp"
+        android:layout_marginEnd="@dimen/_45sdp"
+        android:entries="@array/Userstatus"
+        android:minHeight="@dimen/_20sdp"></Spinner>
+
+</RelativeLayout>

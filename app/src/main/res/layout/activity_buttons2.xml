@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.Buttons2">
+
+    <Button
+        android:id="@+id/btnAddList"
+        android:layout_width="164dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="428dp"
+        android:background="@color/primary"
+        android:text="ADD LIST"
+        android:textColor="@color/create"
+        android:textSize="@dimen/_13sdp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/headerBackground"
+        app:layout_constraintVertical_bias="0.95" />
+
+    <Button
+        android:id="@+id/btnViewList"
+        android:layout_width="164dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="284dp"
+        android:background="@color/primary"
+        android:text="VIEWLIST"
+        android:textColor="@color/create"
+        android:textSize="@dimen/_13sdp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.842" />
+
+    <View
+        android:id="@+id/headerBackground"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_3sdp"
+        android:layout_marginTop="56dp"
+        android:background="@color/primary"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <ImageView
+        android:id="@+id/imageBack"
+        android:layout_width="49dp"
+        android:layout_height="48dp"
+        android:padding="@dimen/_5sdp"
+        android:src="@drawable/ic_back"
+        android:clickable="true"
+        app:tint="@color/btncreate"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/editText"
+        android:layout_width="111dp"
+        android:layout_height="37dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="204dp"
+        android:background="@color/white"
+        android:padding="@dimen/_6sdp"
+        android:scaleType="centerCrop"
+        android:text=" PAYMENT"
+        android:textColor="@color/create"
+        android:textSize="@dimen/_15ssp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/imageBack"
+        app:tint="@color/create"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="8dp" />
+
+    <ImageButton
+        android:id="@+id/btnpayment"
+        android:layout_width="52dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/white"
+        android:clickable="true"
+        android:padding="@dimen/_6sdp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_bpayment"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.877"
+        app:layout_constraintStart_toEndOf="@+id/editText"
+        app:tint="@color/create"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="8dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
